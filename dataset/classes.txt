@@ -6,3 +6,4 @@
 5:transistor
 6:ground
 7:switch
+8:diode
