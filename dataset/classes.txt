@@ -1,0 +1,8 @@
+0:battery
+1:bulb
+2:resistor
+3:capacitor
+4:inductor
+5:transistor
+6:ground
+7:switch
